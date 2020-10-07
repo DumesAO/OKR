@@ -85,3 +85,16 @@
         float: left;
         width: 70%;
     }
+    ol{
+        position: relative;
+        margin: 20px;
+        color: #996644;
+    }
+    dl{
+        margin: 20px;
+        color: yellow;
+    }
+    dt{
+        font-style: oblique;
+        color: beige;
+    }
